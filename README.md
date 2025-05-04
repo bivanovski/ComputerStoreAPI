@@ -6,17 +6,17 @@ This project is a backend web API for a fictional computer store, built as a pro
 
 ##  Features
 
-- ** Category Management**
+- **Category Management**
   - CRUD operations for categories (name & optional description)
 
-- ** Product Management**
+- **Product Management**
   - CRUD operations for products with multiple category support
 
-- ** Stock Import**
+- **Stock Import**
   - Accepts JSON input to import stock
   - Automatically creates missing products or categories
 
-- ** Discount Calculation**
+- **Discount Calculation**
   - 5% discount on the first unit of any product purchased in quantity > 1
   - Ensures stock availability before purchase
   - Returns original vs discounted total and breakdown of discounts
@@ -39,8 +39,8 @@ Edit
 
 ##  Test Coverage
 
-- ✅ **Unit Tests** with `xUnit` for core business logic (`DiscountService`)
-- ✅ **Integration Tests** using `WebApplicationFactory` and `EF Core InMemory` to test real API endpoints
+-  **Unit Tests** with `xUnit` for core business logic (`DiscountService`)
+-  **Integration Tests** using `WebApplicationFactory` and `EF Core InMemory` to test real API endpoints
 
 ---
 
