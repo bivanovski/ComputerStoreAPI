@@ -23,7 +23,7 @@ This project is a backend web API for a fictional computer store, built as a pro
 
 ---
 
-## 🧱 Architecture
+##  Architecture
 
 This project follows a layered (Clean) architecture:
 
@@ -37,38 +37,18 @@ Edit
 
 ---
 
-## 🧪 Test Coverage
+##  Test Coverage
 
 - ✅ **Unit Tests** with `xUnit` for core business logic (`DiscountService`)
 - ✅ **Integration Tests** using `WebApplicationFactory` and `EF Core InMemory` to test real API endpoints
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - ASP.NET Core Web API (.NET 8)
 - Entity Framework Core (with SQL Server & InMemory for tests)
 - AutoMapper for object-to-object mapping
 - xUnit for testing
 - Swagger/OpenAPI for API docs
-
----
-
-## 📦 Example: Stock Import Input
-
-```json
-[
-  {
-    "name": "Intel's Core i9-9900K",
-    "categories": ["CPU"],
-    "price": 475.99,
-    "quantity": 2
-  },
-  {
-    "name": "Razer BlackWidow Keyboard",
-    "categories": ["Keyboard", "Periphery"],
-    "price": 89.99,
-    "quantity": 10
-  }
-]
 
