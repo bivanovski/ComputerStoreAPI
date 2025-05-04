@@ -1,0 +1,15 @@
+C:\Users\BojanIvanovski\Documents\API\ComputerStore\ComputerStore.Service\bin\Debug\net8.0\ComputerStore.Service.deps.json
+C:\Users\BojanIvanovski\Documents\API\ComputerStore\ComputerStore.Service\bin\Debug\net8.0\ComputerStore.Service.dll
+C:\Users\BojanIvanovski\Documents\API\ComputerStore\ComputerStore.Service\bin\Debug\net8.0\ComputerStore.Service.pdb
+C:\Users\BojanIvanovski\Documents\API\ComputerStore\ComputerStore.Service\bin\Debug\net8.0\ComputerStore.Data.dll
+C:\Users\BojanIvanovski\Documents\API\ComputerStore\ComputerStore.Service\bin\Debug\net8.0\ComputerStore.Data.pdb
+C:\Users\BojanIvanovski\Documents\API\ComputerStore\ComputerStore.Service\obj\Debug\net8.0\ComputerStore.Service.csproj.AssemblyReference.cache
+C:\Users\BojanIvanovski\Documents\API\ComputerStore\ComputerStore.Service\obj\Debug\net8.0\ComputerStore.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BojanIvanovski\Documents\API\ComputerStore\ComputerStore.Service\obj\Debug\net8.0\ComputerStore.Service.AssemblyInfoInputs.cache
+C:\Users\BojanIvanovski\Documents\API\ComputerStore\ComputerStore.Service\obj\Debug\net8.0\ComputerStore.Service.AssemblyInfo.cs
+C:\Users\BojanIvanovski\Documents\API\ComputerStore\ComputerStore.Service\obj\Debug\net8.0\ComputerStore.Service.csproj.CoreCompileInputs.cache
+C:\Users\BojanIvanovski\Documents\API\ComputerStore\ComputerStore.Service\obj\Debug\net8.0\Computer.70F72CFB.Up2Date
+C:\Users\BojanIvanovski\Documents\API\ComputerStore\ComputerStore.Service\obj\Debug\net8.0\ComputerStore.Service.dll
+C:\Users\BojanIvanovski\Documents\API\ComputerStore\ComputerStore.Service\obj\Debug\net8.0\refint\ComputerStore.Service.dll
+C:\Users\BojanIvanovski\Documents\API\ComputerStore\ComputerStore.Service\obj\Debug\net8.0\ComputerStore.Service.pdb
+C:\Users\BojanIvanovski\Documents\API\ComputerStore\ComputerStore.Service\obj\Debug\net8.0\ref\ComputerStore.Service.dll
